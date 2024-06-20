@@ -7,9 +7,13 @@
 
 > Projeto feito para a matéria de Programação I, da instituição UNOESC Videira.
 
-### Ajustes e melhorias
+### Conhecimentos
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+Durante esse projeto pude aprofundar meus conhecimentos sobre os seguintes conteúdos:
 
-- [ ] Tratamento de erros
-- [ ] Melhor experiência do usuário
+- [x] Tratamento de erros
+- [x] Melhor experiência do usuário
+- [x] Trabalhar com listas
+- [x] Biblioteca LINQ
+- [x] Arquitetura MVC
+- [x] CRUD 
