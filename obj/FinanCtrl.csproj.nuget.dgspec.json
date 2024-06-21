@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Samuel\\Documents\\Faculdade\\Programação I\\ProgramacaoI\\Atividades\\FinanCtrl\\FinanCtrl.csproj": {}
+    "D:\\Users\\Samuel\\Music\\FinanCtrl\\FinanCtrl.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Samuel\\Documents\\Faculdade\\Programação I\\ProgramacaoI\\Atividades\\FinanCtrl\\FinanCtrl.csproj": {
+    "D:\\Users\\Samuel\\Music\\FinanCtrl\\FinanCtrl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Samuel\\Documents\\Faculdade\\Programação I\\ProgramacaoI\\Atividades\\FinanCtrl\\FinanCtrl.csproj",
+        "projectUniqueName": "D:\\Users\\Samuel\\Music\\FinanCtrl\\FinanCtrl.csproj",
         "projectName": "FinanCtrl",
-        "projectPath": "D:\\Users\\Samuel\\Documents\\Faculdade\\Programação I\\ProgramacaoI\\Atividades\\FinanCtrl\\FinanCtrl.csproj",
+        "projectPath": "D:\\Users\\Samuel\\Music\\FinanCtrl\\FinanCtrl.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Samuel\\Documents\\Faculdade\\Programação I\\ProgramacaoI\\Atividades\\FinanCtrl\\obj\\",
+        "outputPath": "D:\\Users\\Samuel\\Music\\FinanCtrl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
