@@ -9,7 +9,7 @@
 
 ### Sobre
 
-O aplicativo FinanCtrl é um gerenciador de finanças pessois, ele permite cadastro, edição e exclusão de valores recebidos e gastos. Todos os dados para que o usuário possa manter suas finanças em dia.
+O aplicativo FinanCtrl é um gerenciador de finanças pessoais, ele permite cadastro, edição e exclusão de valores recebidos e gastos. Todos os dados para que o usuário possa manter suas finanças em dia.
 
 ### Features
 
