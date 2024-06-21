@@ -1,0 +1,15 @@
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\bin\Debug\net8.0\FinanCtrl.exe
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\bin\Debug\net8.0\FinanCtrl.deps.json
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\bin\Debug\net8.0\FinanCtrl.runtimeconfig.json
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\bin\Debug\net8.0\FinanCtrl.dll
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\bin\Debug\net8.0\FinanCtrl.pdb
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\FinanCtrl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\FinanCtrl.AssemblyInfoInputs.cache
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\FinanCtrl.AssemblyInfo.cs
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\FinanCtrl.csproj.CoreCompileInputs.cache
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\FinanCtrl.sourcelink.json
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\FinanCtrl.dll
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\refint\FinanCtrl.dll
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\FinanCtrl.pdb
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\FinanCtrl.genruntimeconfig.cache
+D:\Users\Samuel\Documents\Faculdade\Programação I\ProgramacaoI\Atividades\FinanCtrl\obj\Debug\net8.0\ref\FinanCtrl.dll
